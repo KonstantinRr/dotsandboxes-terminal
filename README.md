@@ -1,2 +1,2 @@
-# dotsandboxes-terminal
-Dots and Boxes - Terminal
+# Dots and Boxes - Terminal
+Terminal implementation of the famous dots & boxes game in C!
